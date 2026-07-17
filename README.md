@@ -1,2 +1,13 @@
-# AI-Powered-Resume-Matching-and-Fake-Job-Detection-System
-AI-Powered Resume Matching and Fake Job Detection System is an AI-based application that matches resumes with job descriptions using NLP and Machine Learning. It calculates similarity scores, identifies missing skills, and detects fake job postings, helping recruiters hire efficiently and job seekers find genuine opportunities.
+---
+title: JobShield AI
+emoji: 🛡️
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 4.0.0
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
+AI-powered Resume Matching and Fake Job Detection System using NLP and ML models.
